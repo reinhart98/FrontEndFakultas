@@ -1,0 +1,24 @@
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+.page-header{
+	text-align: center;
+	
+}
+
+.img-responsive2 {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+.nav-pills li {
+    margin-left: 20px; //use whatever you want
+} 
+
+.nav-pills a {
+    //use font-family and font-size to change font and size of it.
+} 
+
