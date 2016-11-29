@@ -29,17 +29,6 @@ padding-bottom:150px; /* this needs to be bigger than footer height*/
 
 }
  
-<<<<<<< HEAD
-footer {
-    background-color: #2d2d30;
-    color: #f5f5f5;
-    padding: 32px;
-}
-
-footer a {
-    color: #f5f5f5;
-}
-=======
 .footer {
 position: relative;
 
@@ -49,11 +38,7 @@ clear:both;
 padding-top:20px;
 background-color: black;
 color: white;
->>>>>>> 6bf7f205d2b69773bdc43f5c4136036b8a2f7ba5
 
-footer a:hover {
-    color: #777;
-    text-decoration: none;
 }
 
 #kiri{
@@ -115,5 +100,6 @@ background-color: #418bca;
 #tes{
     color: #A3A3B4;
 }
+
 
 
