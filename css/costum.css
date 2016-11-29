@@ -29,6 +29,7 @@ padding-bottom:150px; /* this needs to be bigger than footer height*/
 
 }
  
+<<<<<<< HEAD
 footer {
     background-color: #2d2d30;
     color: #f5f5f5;
@@ -38,6 +39,17 @@ footer {
 footer a {
     color: #f5f5f5;
 }
+=======
+.footer {
+position: relative;
+
+height: 410px;
+width: 100%;
+clear:both;
+padding-top:20px;
+background-color: black;
+color: white;
+>>>>>>> 6bf7f205d2b69773bdc43f5c4136036b8a2f7ba5
 
 footer a:hover {
     color: #777;
@@ -83,5 +95,25 @@ background-color: #418bca;
     color: #418bca;
 }
 
+.col-md-4 {
+    line-height: 13px;
+}
+
+.copyright {
+    position: absolute;
+    background-color: #1f1f1f;
+    padding-left: 10px;
+    width: 100%;
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.9em;
+    text-align: left;
+    bottom:0;
+    margin-top: 20px;
+}
+
+#tes{
+    color: #A3A3B4;
+}
 
 
