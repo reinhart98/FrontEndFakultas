@@ -31,8 +31,9 @@ padding-bottom:150px; /* this needs to be bigger than footer height*/
  
 .footer {
 position: relative;
-margin-top: -150px; /* negative value of footer height */
-height: 150px;
+
+height: 410px;
+width: 100%;
 clear:both;
 padding-top:20px;
 background-color: black;
@@ -79,6 +80,26 @@ background-color: #418bca;
     color: #418bca;
 }
 
+.col-md-4 {
+    line-height: 13px;
+}
+
+.copyright {
+    position: absolute;
+    background-color: #1f1f1f;
+    padding-left: 10px;
+    width: 100%;
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.9em;
+    text-align: left;
+    bottom:0;
+    margin-top: 20px;
+}
+
+#tes{
+    color: #A3A3B4;
+}
 
 
 
