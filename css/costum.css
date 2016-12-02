@@ -1,11 +1,14 @@
 body {
-	padding-top: 50px;
+	padding-top: 70px;
 	padding-bottom: 20px;
 }
 
-.page-header{
-	text-align: center;
-	
+.jumbotron{
+	font-family: Yu Mincho;
+	background-color: #364C8F;
+	color: white;
+	height: 180px;
+	margin-top: -40px;
 }
 
 .img-responsive2 {
@@ -14,10 +17,17 @@ body {
     height: 30px;
 }
 
+.nav-pills{
+		padding: 5px;
+}
 
+#navpils{
+	background-color: #A13131;
+}
 
 .nav-pills li {
     margin-left: 20px; //use whatever you want
+
 } 
 
 
@@ -52,18 +62,19 @@ padding:0 10px;
 }
 
 #kanan{
+padding: 10px; 
 font-size: 20px; 
 float: right;
 width: 400px;
 height: 450px;
-background-color: #418bca;
+background-color: #9EA4ED;
 }
 
 
 
 .nav-pills > li > a {
     font-size: 15px;
-    color: #37404e;
+    color: white;
     border-radius: 5px 5px 0 0;
     padding: 10px;
 }
