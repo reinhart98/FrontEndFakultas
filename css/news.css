@@ -1,0 +1,119 @@
+.content{background: none repeat scroll 0 0 #fff;
+border-radius: 6px;
+margin-top: -461px;}
+.main_menu{}
+.main_content_area{border-left: 2px solid #ddd;
+border-right: 2px solid #ddd;
+border-bottom:2px solid #ddd;
+padding: 25px;}
+#content_area{position: relative;}
+.slider_area{position: relative;}
+.slider_top_border{background: url("images/title_bg2.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+height: 15px;}
+.slider{margin: 15px 0px}
+.slider_bottom_border{background: url("images/title_bg2.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+height: 35px;margin-bottom:25px;}
+.home_main_content{}
+.main_content{border-right: 1px solid #ddd;
+width: 605px;}
+.main_content_container{margin-left: -25px;}
+.single_content{margin-left: 25px;width: 280px;margin-bottom:30px;}
+.single_content > h2,.single_content_latest_post > h2{background: url("images/title_bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+color: #444444;
+font-family: georgia !important;
+font-size: 12px;
+font-style: italic;
+line-height: 16px;
+margin-left: 100px;}
+.single_content > h2 span,.single_content_latest_post > h2 span{background: none repeat scroll 0 0 #fff;
+margin-left: -100px;}
+.single_content_feature{border-bottom: 1px solid #ddd;
+margin-bottom: 10px;}
+.single_content_feature > a img{border: 1px solid #ddd;
+height: 155px;
+padding: 5px;
+width: 268px;}
+.single_content_feature h3{margin-top: 15px;}
+.single_content_feature h3 a{color: #000;font-size: 12px;}
+.single_content_feature h3 a:hover{color: #e47600;}
+.single_content_feature span{margin-bottom: 15px;
+display: block;
+color: #aaaaaa;
+font-size: 11px;
+font-family:georgia;}
+.single_content_feature span a{color: #aaaaaa;}
+.single_content_feature span a:hover{color: #000;}
+.single_content_feature p{color: #555555;
+margin-bottom: 10px;}
+.single_home_content{}
+.single_home_content_img{border: 1px solid #ddd;
+float: left;
+margin-right: 10px;
+padding: 2px;}
+.single_home_content_img img{height: 45px;
+width: 45px;}
+.single_home_content_title{float: right;
+width: 218px;}
+.single_home_content_title h4{color: #444444;
+font-size: 12px;
+margin-bottom: 0;}
+.single_home_content_title p{font-family: georgia;
+color: #aaaaaa;
+font-size: 11px;}
+.single_home_content_title p a{color: #aaaaaa;}
+.single_home_content_title p a:hover{color: #000;}
+#post_list li{padding: 10px 0px;
+border-bottom: 1px solid #ddd;}
+#post_list li a{}
+.single_content_latest_post{margin-left: 25px;
+padding-right: 20px;}
+
+.single_latest_post{border-bottom: 1px solid #ddd;
+margin-bottom: 15px;
+padding-bottom: 15px;}
+.latest_post_img{border: 1px solid #ddd;
+margin-right: 10px;
+padding: 3px;}
+.latest_post_img img{height: 90px;
+width: 170px;}
+.latest_post_title{width: 397px;}
+.latest_post_title h2{margin-bottom: 0;}
+.latest_post_title h2 a{color: #444444;font-size: 12px;}
+.latest_post_title h2 a:hover{color: #e47600;}
+.latest_post_title span{color: #aaaaaa;
+display: block;
+font-family: georgia;
+font-size: 11px;
+margin-bottom: 5px;}
+.latest_post_title span a{color: #aaaaaa;}
+.latest_post_title span a:hover{color: #000;}
+.latest_post_title p{color: #555555;}
+.sidebar{width: 300px;}
+.single_sidebar{margin-bottom: 20px;}
+.single_sidebar h2{background: url("images/title_bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+color: #444444;
+font-family: georgia !important;
+font-size: 12px;
+font-style: italic;
+line-height: 16px;
+margin-left: 100px;}
+.single_sidebar h2 span{background: none repeat scroll 0 0 #fff;
+margin-left: -100px;}
+.single_sidebar input{padding: 10px;
+width: 92%;}
+.single_sidebar ul{}
+.single_sidebar ul li{border-bottom: 1px solid #ddd;}
+.single_sidebar ul li:hover{color:#e47600}
+.single_sidebar ul li a{color: #444444;
+display: inline-block;
+font-family: HelveticaNeue;
+font-size: 14px;
+margin-right: 7px;
+padding: 10px 0;}
+.single_sidebar ul li a:hover,.single_sidebar a{color:#e47600}
+.scroll_to_top{background: url("images/title_bg2.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+margin: 50px 0 0;
+padding: 10px 20px;}
+.scroll_to_top a{color: #787878;
+font-family: georgia;
+font-style: italic;}
